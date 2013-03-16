@@ -1,0 +1,6 @@
+.git
+make_version.sh
+maldet-wt.current.hash
+maldet-wt.current.ver
+tar_excludes
+temp.tar
