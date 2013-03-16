@@ -3,9 +3,9 @@ maldetectd
 
 Spawn child of maldetect and maldetect-wt. Maldetectd is a Linux malware scanner/monitor with additional features and signatures
 
-### Sources
+### Original Sources
 
-https://github.com/etcet/maldetect-wt
+https://github.com/etcet/maldetect-wt 
 http://www.rfxn.com/projects/linux-malware-detect/
 
 ## Install
